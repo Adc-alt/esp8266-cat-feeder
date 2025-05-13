@@ -5,7 +5,9 @@
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-IDE-blue)](https://platformio.org/)
 
 <div align="center">
-  <img src="./images/assembled.jpg" alt="Smart Pet Feeder" width="400"/>
+  <img src=![WhatsApp Image 2025-05-13 at 08 43 59](https://github.com/user-attachments/assets/f7967e6d-7b0d-4251-90a6-c4350378f22f)
+ alt="Smart Pet Feeder" width="400"/>
+
 </div>
 
 ## 📝 Description
